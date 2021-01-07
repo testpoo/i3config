@@ -262,6 +262,6 @@ bindsym $mod+p mode "$mode_system"
 bindsym XF86MonBrightnessUp exec light -A 10 # increase screen brightness
 bindsym XF86MonBrightnessDown exec light -U 10 # decrease screen brightness
 
-bindsym PrtSc exec deepin-screenshot
+bindsym Print exec deepin-screenshot
 bindsym $mod+t exec Thunar
 bindsym $mod+q exec firefox
